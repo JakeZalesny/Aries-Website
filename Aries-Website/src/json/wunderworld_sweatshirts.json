@@ -1,0 +1,131 @@
+{
+    "results":[
+        {
+            "id": "7784A",
+            "name": "Album Hoodie - Tan",
+            "price": 40.00,
+            "img": "../assets/album_tan_zip_up.jpg",
+            "type": "Zipped Hoodie",
+            "link":"https://www.redbubble.com/i/hoodie/Welcome-Home-Aries-by-Wortelsap/96110969.R76QN"
+        },
+
+        {
+            "id": "7784B",
+            "name": "Believe in me - Moon Logo - Pullover",
+            "price": 50.00,
+            "img": "../assets/believe_in_me_moon_pullover.jpg",
+            "type": "Pullover",
+            "link": "https://www.redbubble.com/i/sweatshirt/BELIEVE-IN-ME-MOON-Aries-of-Wunderworld-by-HeartstarDesign/112402971.4UUCT"
+        },
+
+        {
+            "id": "7784C",
+            "name": "Wunderworld Sweater - Black & Purple",
+            "price": 45.00,
+            "img": "../assets/black_wunderworld_sweater.jpg",
+            "type": "Sweater",
+            "link": "https://www.redbubble.com/i/hoodie/Aries-Of-Wunderworld-s-Wunderworld-exclusive-Sayonara-Ugly-PURPLE-VERSION-by-AMAN0C/102988862.O6XP1.XYZ"
+        },
+
+        {
+            "id": "7784D",
+            "name": "Wunderworld Sweater - Blue & White",
+            "price": 45.00,
+            "img": "../assets/blue_white_wunderworld_hoodie.jpg",
+            "type": "Sweater",
+            "link": "https://www.redbubble.com/i/hoodie/Aries-Of-Wunderworld-s-Wunderworld-exclusive-Sayonara-Ugly-PURPLE-VERSION-by-AMAN0C/102989717.CVVWR"
+        },
+
+        {
+            "id": "7784E",
+            "name": "Wunderworld Sweater - Grey & Purple",
+            "price": 45.00,
+            "img": "../assets/grey_purple_wunderworld_hoodie.jpg",
+            "type": "Sweater",
+            "link": "https://www.redbubble.com/i/hoodie/WUNDERWORLD-Aries-Of-Wunderworld-s-Wunderworld-exclusive-Sayonara-Ugly-Hoodie-by-AMAN0C/102988258.GQV8B.XYZ"
+        },
+
+        {
+            "id": "7784F",
+            "name": "One Punch - Hoodie",
+            "price": 40.00,
+            "img": "../assets/one_punch_hoodie.jpg",
+            "type": "Sweater",
+            "link": "https://www.redbubble.com/i/hoodie/wunderworld-forest-of-sparkles-by-PascalQuiron/151845387.VR8OC.XYZ"
+        },
+
+        {
+            "id": "7784G",
+            "name": "Pink Sun - Pullover",
+            "price": 50.00,
+            "img": "../assets/pink_sun_pullover.jpg",
+            "type": "Pullover",
+            "link": "https://www.redbubble.com/i/sweatshirt/aries-PINK-SUN-Aries-of-Wunderworld-by-HeartstarDesign/112400894.73735"
+        },
+
+        {
+            "id": "7784H",
+            "name": "Purple WELCOME HOME - Pullover",
+            "price": 60.00, 
+            "img": "../assets/purple_hero_sweater.jpg",
+            "type": "Pullover",
+            "link":"https://www.redbubble.com/i/sweatshirt/Purple-Aries-by-Wunderrin/51237686.0LCRC"
+        },
+        
+        {
+            "id": "7784I",
+            "name":"UGLY Hoodie - Purple", 
+            "price": 45.00,
+            "img": "../assets/purple_ugly_hoodie.jpg",
+            "type": "Sweater",
+            "link": "https://www.redbubble.com/i/hoodie/UGLY-Aries-Logo-Exclusive-Ugly-Limited-Logo-Sayonara-by-AMAN0C/102987280.O6XP1.XYZ"
+        },
+        
+        {
+            "id": "7784J",
+            "name":"Racecar Zipped Hoodie - White",
+            "price": 40.00,
+            "img": "../assets/racecar_zipped_hoodie.jpg",
+            "type": "Zipped Hoodie",
+            "link": "https://www.redbubble.com/i/hoodie/Aries-Simplified-by-JohnCarpenter2/41127532.R76QN"
+        },
+        
+        {
+            "id": "7784K",
+            "name":"UGLY Black - Pullover",
+            "price": 50.00,
+            "img": "../assets/ugly_black_sweater.jpg",
+            "type": "Pullover",
+            "link": "https://www.redbubble.com/i/sweatshirt/UGLY-Black-Aries-Logo-Exclusive-Ugly-Limited-Logo-Sayonara-by-AMAN0C/102987278.6ZK6M.XYZ"
+        },
+
+        {
+            "id": "7784L",
+            "name":"Wunderworld Sweater - Grey & Yellow",
+            "price": 45.00,
+            "img": "../assets/wunderworld_grey.jpg",
+            "type": "Sweater",
+            "link": "https://www.redbubble.com/i/hoodie/Aries-Simplified-by-JohnCarpenter2/41127532.R76QN"
+        },
+
+        {
+            "id": "7784M",
+            "name": "Wunderworld Sweater Stars - Grey",
+            "price": 35.00,
+            "img": "../assets/wunderworld_stars_grey.jpg",
+            "type": "Sweater",
+            "link": "https://www.redbubble.com/i/hoodie/Wunderworld-Stars-by-Wortelsap/91995207.GQV8B"
+        },
+
+        {
+            "id": "7784N",
+            "name": "Wunderworld Sweater Stars - White",
+            "price": 35.00,
+            "img": "../assets/wunderworld_stars_white.jpg",
+            "type": "Sweater",
+            "link": "https://www.redbubble.com/i/hoodie/Wunderworld-Stars-Green-Background-by-Wortelsap/91995287.VR8OC.XYZ"
+        }
+
+
+    ]
+}

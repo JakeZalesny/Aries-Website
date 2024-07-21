@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/app.css" />
+    <title>Aries Site</title>
+  </head>
+  <body>
+    <header id="header"></header>
+    <div class="player">
+      <video autoplay controls id="intro-video">
+        <source src="./assets/under-your-skin.mp4" type="video/mp4" />
+        <!-- fallback content here -->
+      </video>
+    </div>
+      <h3>Highlighted Songs</h3>
+      <section id="highlighted-songs"></section>
+      <h3>Highlighted Merch</h3>
+      <section id="highlighted-merch"></section>
+    <script type="module" src="./scripts/main.js"></script>
+    <script type="module" src="./scripts/highlightedSongs.js" defer></script>
+    <script type="module" src="./scripts/highlightedMerch.js" defer ></script>
+  </body>
+</html>
